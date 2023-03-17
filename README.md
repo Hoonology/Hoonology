@@ -23,6 +23,8 @@
 </br>
 
 <div align=center>
+  
+  ## SNS & Mail
 
 [![Tistory Badge](https://img.shields.io/badge/-Tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://hoongraphy.tistory.com/)](https://hoongraphy.tistory.com/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ho.o_ny/)](https://www.instagram.com/ho.o_ny/) 
