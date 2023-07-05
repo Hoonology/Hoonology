@@ -24,8 +24,7 @@
 <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=hoonology&theme=dark" width=49.2% />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=hoonology&theme=one-dark&hide_border=true" width=98%/>
+
 </a>
   
 </div>
