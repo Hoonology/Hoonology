@@ -1,30 +1,34 @@
 ---
 
-<div align=center>
-  
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hoony%20's%20Github!&fontSize=60&animation=blink)
+## 💻 DevOps Engineer 김성훈 
 
-<!-- ## <img src="https://slackmojis.com/emojis/10521-meow_code/download" width="30"/> Hello World !  -->
-</div>
 
 ---
-
+DevOps 엔지니어로서, 저는 **효율적이고 안정적인 소프트웨어 배포 파이프라인**을 구축하고 유지하는 데 중점을 두고 있습니다.   
+팀의 생산성을 향상시키고 비즈니스 목표를 달성하는 데 기여할 수 있도록 지속적인 통합(CI) 및 지속적인 배포(CD) 프로세스를 개선하는 것에 관심이 있습니다.  
+장기적으로는, 저는 DevOps 문화를 선도하고 기업의 IT 인프라와 운영 효율성을 향상시키는 데 중요한 역할을 하는 선임 또는 리드 DevOps 엔지니어가 되고 싶습니다. 
+이를 통해, 저는 기술적인 전문성을 더욱 깊게 발전시키고, 동시에 팀을 지도하고 멘토링하는 역량을 키우는 것을 목표로 하고 있습니다.
 </br>
 </br>
 
+### Project
+- 컨테이너 및 IaC 기반, 업무 배분을 위한 Task Management 서비스 ( AWS 리소스 활용 ) [[🔗 프로젝트 소개] ](https://github.com/Hoonology/DevOps_final_Project)
 <!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/hoonology/count.svg" />
 </p> -->
 
+<br>
+<br>
+<br>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=hoonology&theme=onedark&hide_border=true&count_private=true" width=49.2% />
 </a>
-<a href="https://git.io/streak-stats">
+<!-- <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=hoonology&theme=dark" width=49.2% />
 </a>
-
+ -->
 </a>
   
 </div>
